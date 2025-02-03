@@ -3,7 +3,7 @@ This is a simple quote generator app,built using Flask and Docker.This app will 
 Backend API is built using the Flask and serves quotes in the JSON format.
 
 ### Table of Contents
-1. <a name="prerequisites"></a> Prerequisites
+1. [Prerequisites](#prerequisites)
 2. <a name="Setup"></a> Setup
 3. <a name="Running the App"></a> Running the App
 4. <a name="Docker Setup"></a> Docker Setup
