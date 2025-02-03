@@ -5,9 +5,9 @@ Backend API is built using the Flask and serves quotes in the JSON format.
 ### Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Setup](#setup)
-3. [Running the App](#running-the-app)
-4. [Docker Setup](#docker-setup)
-5. [Running container from image](#Running-container-from-image)
+3. [Running the App](#Running_the_App)
+4. [Docker Setup](#Docker_setup)
+5. [Running container from image](#Running_container_from_image)
 
 #### prerequisites
 Before starting, please ,makesure to install the below tools.
@@ -34,7 +34,7 @@ Before starting, please ,makesure to install the below tools.
        pip install -r app/requirements.txt
 
 Running the application with Flask
-3. Running the Application
+3. Running_the_App
 
 Make sure pwd is :  /quote-generator-app
 
@@ -52,7 +52,7 @@ change the url to include the category which should seem like : http://127.0.0.1
 Refer below image.
 ![category_route.png](images/category_route.png)
 
-4. Docker Setup
+4. Docker_setup
 #### Setting the Docker.
 
 Lets use docker to Containerise our application:
@@ -68,7 +68,7 @@ Run below command :
 
 (-t means tag  which means naming it and . at end means it build in your present directory).
 
-5. Running container from image.
+5. Running_container_from_image
 
 After building the app : 
 
