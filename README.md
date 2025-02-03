@@ -5,7 +5,7 @@ Backend API is built using the Flask and serves quotes in the JSON format.
 ### Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Setup](#setup)
-3. [Running the app](#Running_the_App)
+3. [Running the app](#Run_App)
 4. [Docker Setup](#Docker_setup)
 5. [Running container from image](#Running_container_from_image)
 
@@ -34,7 +34,7 @@ Before starting, please ,makesure to install the below tools.
        pip install -r app/requirements.txt
 
 Running the application with Flask
-## Running_the_App
+## Run_App
 
 Make sure pwd is :  /quote-generator-app
 
