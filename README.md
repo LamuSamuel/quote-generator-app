@@ -5,7 +5,7 @@ Backend API is built using the Flask and serves quotes in the JSON format.
 ### Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Setup](#setup)
-3. [Running the App](#Running the App)
+3. [Running the App](#running the App)
 4. [Docker Setup](#Docker Setup)
 5. [Running container from image](#Running container from image)
 
