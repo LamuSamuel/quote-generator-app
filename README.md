@@ -1,4 +1,4 @@
-## QUOTE GENERATOR APP
+## QUOTE GENERATOR APP - Docker
 This is a simple quote generator app,built using Flask and Docker.This app will allow us to generate random quotes based on category (motivational, life, programming... can be extended in app/quotes.json).
 Backend API is built using the Flask and serves quotes in the JSON format.
 
